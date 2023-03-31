@@ -1,8 +1,8 @@
 class Config(object):
-    APP_ID = YOUR_API_ID
-    API_HASH = "YOUR_API_HASH"
-    BOT_TOKEN = "YOUR_BOT_TOKEN"
-    AUTH_USERS = set(int(x) for x in "TELEGRAM_IDS_OF_AUTH_USERS".split(" "))
+    APP_ID = 1293082
+    API_HASH = "0b113c40038ed82cea13be3eeaa2b0e6"
+    BOT_TOKEN = "6145911399:AAGbx91MAd_paiRd7BW_7hkm9v97n9D6Bws"
+    AUTH_USERS = set(int(x) for x in "705793735".split(" "))
     IS_PUBLIC_BOT = False # Set this to True if you want to make your bot public
     LOGS_CHANNEL = YOUR_LOG_CHANNEL_ID
     # DON'T CHANGE THESE 2 VARS
